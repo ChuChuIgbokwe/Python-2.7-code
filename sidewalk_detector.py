@@ -7,7 +7,7 @@ import cv2
 import rospy
 import rosbag
 import roslib
-# roslib.load_manifest('sidewalk_detector')
+#
 import sys
 
 from std_msgs.msg import String

@@ -16,9 +16,9 @@ print squared(items)
 def sqr(x):
 	return x**2
 
-print "mapped version ",list(map(sqr,items))
+print "mapped version ",map(sqr,items)
 
-print "lambda version ",list(map((lambda x:x**2),items))
+print "lambda version ",map((lambda x:x**2),items)
 print ''
 
 def square(x):
@@ -47,6 +47,6 @@ def mymap(aFunc, aSeq):
 	return result
 
 print "in-built map function"
-print list(map(sqr, [1, 2, 3]))
+print map(sqr, [1, 2, 3])
 print "equivalent mapping function"
 print mymap(sqr, [1, 2, 3])

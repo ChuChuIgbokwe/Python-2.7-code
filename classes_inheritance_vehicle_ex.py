@@ -37,6 +37,8 @@ class Vehicle(object):
         if self.sold_on is None:
             return 0.0  # Not yet sold
         return self.base_sale_price - (.10 * self.miles)
+
+
 class Car(Vehicle):
 
     def __init__(self, wheels, miles, make, model, year, sold_on):
