@@ -127,6 +127,6 @@ print f>g
 print f<=g
 h = sum([f,g])
 print h
-print f+=g
+print f++ g
 # h = Fraction('x',4)
 # print h

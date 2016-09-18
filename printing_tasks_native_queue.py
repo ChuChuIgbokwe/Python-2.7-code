@@ -58,7 +58,7 @@ class Task:
 
 def simulation(numSeconds, pagesPerMinute):
 
-    labprinter = Printer(pagesPerMinute)
+    labprinter = Printer(pagesPerMinute) #instantiate Printer class
     printQueue = Queue.Queue()
     waitingtimes = []
 
