@@ -11,8 +11,9 @@ def reverse_string(s):
 	if s == "":
 		return s
 	else:
+		print s
 		return reverse_string(s[1:]) + s[0]
 
 
-n= raw_input("Enter a string: ")
-print reverse_string(n)
+# n= raw_input("Enter a string: ")
+print reverse_string('vouchsafing')

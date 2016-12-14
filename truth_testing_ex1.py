@@ -3,11 +3,11 @@
 # Created by Chukwunyere Igbokwe on March 10, 2016 by 2:55 AM
 
 def getinput():
-	'''
-	0 is returned from getinput. Remember that both 0, None, empty sequences and some other forms all evaluate
-	to False in truth testing.
-	:return:
-	'''
+    '''
+    0 is returned from getinput. Remember that both 0, None, empty sequences and some other forms all evaluate
+    to False in truth testing.
+    :return:
+    '''
     print "0: start"
     print "1: stop"
     print "2: reset"

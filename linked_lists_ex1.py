@@ -21,10 +21,16 @@ class Node(object):
 
 
 
+
 class UnorderedList(object):
 
     def __init__(self):
         self.head = None
+
+    def __str__(self):
+        nodelist = []
+
+        return str(Node.self.data)
 
     def isEmpty(self):
         return self.head == None
@@ -51,17 +57,12 @@ class UnorderedList(object):
                 found = True
             else:
                 current = current.getNext()
-		# if current is None:
-		# 	raise ValueError("Data not in list")
-		# return current
         return found
 
     def remove(self,item):
         current = self.head
         previous = None
         found = False
-        # if self.search(current) == False:
-        #     raise ValueError("Data not in list")
         while not found:
             if current.getData() == item:
                 found = True
@@ -77,6 +78,9 @@ class UnorderedList(object):
 		else:
 			previous.setNext(current.getNext())
 			return current.getData()
+
+    # def append(self,element):
+
 
 mylist = UnorderedList()
 
@@ -102,7 +106,8 @@ print(mylist.size())
 mylist.remove(31)
 print(mylist.size())
 print(mylist.search(93))
-
+print mylist
+# print Node(32)
 # mylist = UnorderedList()
 # temp = Node(93)
 # print temp.getData()
@@ -140,3 +145,21 @@ print(mylist.search(93))
 #         print
 #
 # printList(node1)
+
+
+# def removeSecond(list):
+#     '''
+#     a method that removes the second node in the list and returns a reference to the removed node:
+#
+#
+#     :param list:
+#     :return:
+#     '''
+#     if list == None: return
+#     first = list
+#     second = list.next
+#     # make the first node refer to the third
+#     first.next = second.next
+#     # separate the second node from the rest of the list
+#     second.next = None
+#     return second

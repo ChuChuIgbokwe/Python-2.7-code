@@ -32,6 +32,8 @@ class Hero:
 Bob = Hero("Bob")
 print Bob.name
 print Bob.health
+Bob.eat('ham')
+print Bob.health
 Bob.eat('apple')
 print Bob.health
 

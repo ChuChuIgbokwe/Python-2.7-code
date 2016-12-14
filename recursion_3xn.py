@@ -20,5 +20,5 @@ def mult3(n):
 		print "intermediate result for ", n, " * f(" ,n-1, "): ",res
         return res
 
-print mult3(0)
+print mult3(5)
 print mult3.__doc__

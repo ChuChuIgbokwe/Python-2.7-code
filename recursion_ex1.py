@@ -7,9 +7,10 @@ def toStr(n,base):
    if n < base:
       return convertString[n]
    else:
+      print n%base
       return toStr(n//base,base) + convertString[n%base]
 
-print(toStr(1453,16))
+print(toStr(14314,16))
 
 
 
