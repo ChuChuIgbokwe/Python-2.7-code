@@ -1,74 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3ffb0680-b758-4dde-a1ac-2665032ae3c3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merge_sort.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/recursion_explode.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/recursion_factorial.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/recursion_remove_duplicates.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/recursion_sierpinski_triangle.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/recursion_tower_of_hanoi.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/recursion_turtle_fractal_tree.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/recursion_turtle_fractal_tree_2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/recursion_turtle_fractal_tree_3_pygame.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rrt_ex1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stack_base_conversion.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stack_ex3.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BlueUmbrella.webm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Curved Sidewalk.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/back_projection.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/back_projection_ex1.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/back_projection_ex3.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/back_projection_video.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/back_projection_video_ex2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/back_projection_video_ex3.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/balon_dor_small.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chess_board.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cr7lm10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/flip_image.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/histogram_comparison_tutorial.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mcb3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/messi.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/messi_balon_dor.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/messi_ronaldo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/messing_around_with_hsv.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/red_roses.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ronaldinho.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ronaldo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ronaldo_back_projection.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ronaldo_balon_dor.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ronaldo_copy.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/roses.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample.mov" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sidewalk-edging.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sidewalk_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sidewalk_detector.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sidewalk_detector_no_classes.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sidewalk_detector_no_ros.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sidewalk_survey.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/simple_histogram_example.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/simplest_histogram_example.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/slow_traffic_small.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thresh.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/threshbs.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/threshg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/threshy.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/track_blue_object.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/track_mean_shift.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/video_capture_example.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/walking_down_the_sidewalk.mp4" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes_example1.py" afterPath="$PROJECT_DIR$/classes_example1.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/linked_lists_ex1.py" afterPath="$PROJECT_DIR$/linked_lists_ex1.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/recursion_3xn.py" afterPath="$PROJECT_DIR$/recursion_3xn.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/recursion_ex1.py" afterPath="$PROJECT_DIR$/recursion_ex1.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/recursion_ex2.py" afterPath="$PROJECT_DIR$/recursion_ex2.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/recursion_ex3_reverse.py" afterPath="$PROJECT_DIR$/recursion_ex3_reverse.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sieve_of_eratosthenes.py" afterPath="$PROJECT_DIR$/sieve_of_eratosthenes.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stack_ex2.py" afterPath="$PROJECT_DIR$/stack_ex2.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/truth_testing_ex1.py" afterPath="$PROJECT_DIR$/truth_testing_ex1.py" />
-    </list>
+    <list default="true" id="3ffb0680-b758-4dde-a1ac-2665032ae3c3" name="Default" comment="" />
     <ignored path="first_project.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -163,8 +96,8 @@
       <file leaf-file-name="messing_around_with_hsv.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/opencv/messing_around_with_hsv.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="210">
+              <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -639,6 +572,14 @@
       <option name="presentableId" value="Default" />
       <updated>1469130061553</updated>
     </task>
+    <task id="LOCAL-00001" summary="opencv folder created">
+      <created>1481678649013</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1481678649013</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -649,9 +590,9 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946378" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32832617" sideWeight="0.60475403" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32832617" sideWeight="0.395246" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32939914" sideWeight="0.50193477" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32939914" sideWeight="0.49806523" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32832617" sideWeight="0.395246" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -676,6 +617,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="opencv folder created" />
+    <option name="LAST_COMMIT_MESSAGE" value="opencv folder created" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1095,8 +1040,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/opencv/messing_around_with_hsv.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="210">
+          <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
           <folding />
         </state>
       </provider>
