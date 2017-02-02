@@ -61,11 +61,19 @@ class ImageProcMicroLibrary():
         else:
             pass
 
-    def ShowCroppedImage(self,x,y,w,h):
+    def ShowCroppedImage(self,x,y,w,h, save=False):
         cv2.imshow("Cropped Image", self.__CropImage(x,y,w,h))
+        if save==True:
+            cv2.imwrite("Cropped_Image.jpg",self.__CropImage(x,y,w,h))
+        else:
+            pass
 
-    def ShowOptimizedGrayImage(self):
+    def ShowOptimizedGrayImage(self,save=True):
         plt.imshow(self.__OptimizedGrayImageConversion(), cmap=plt.get_cmap('gray'))
+        if save==True:
+            plt.savefig('OptimizedGrayImage.jpg')
+        else:
+            pass
         plt.show()
 
 if __name__ == '__main__':
@@ -88,7 +96,7 @@ if __name__ == '__main__':
             img.ShowGrayAverageImage()
         elif k == ord('b'):
             print 'b\n This is slow too'
-            img.ShowGrayWeightedImage()
+            img.ShowGrayWeightedImage(True)
         elif k == ord('c'):
             img.ShowCroppedImage(100, 50, 800, 300)
         elif k == 27:

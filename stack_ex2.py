@@ -32,5 +32,40 @@ def matches(open,close):
 
 
 # print(parChecker('{{([][])}()}'))
-print(parChecker('[{()]'))
+# print(parChecker('[{()]'))
+print parChecker('"{[}]}')
+print parChecker('{}[]()')
 
+def braces(values):
+    s = Stack()
+    balanced = True
+    index = 0
+    while index < len(values) and balanced:
+        symbol = values[index]
+        if symbol == "(" or symbol == "[" or symbol == '{':
+            s.push(symbol)
+        else:
+            if s.isEmpty():
+                balanced = False
+            else:
+                s.pop()
+
+        index = index + 1
+
+    if balanced and s.isEmpty():
+        return "YES"
+    else:
+        return "NO"
+
+
+from collections import Counter
+def braces(values):
+    b = Counter(values)
+    answer = ['YES','NO']
+    if b['{'] == b['}'] and b['('] == b[')'] and b['['] == b[']']:
+        return 'YES'
+    else:
+        return 'NO'
+
+print braces('{}[]()')
+print braces("{[}]}")

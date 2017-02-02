@@ -27,10 +27,10 @@ hist1_norm = cv2.normalize(hist1,hist1,0,1,cv2.NORM_MINMAX)#.flatten()
 k = cv2.compareHist(hist_norm,hist1_norm,cv2.cv.CV_COMP_CHISQR)
 print k
 
-# plt.imshow(hist_norm1,interpolation = 'nearest')
-# fig = plt.figure()
-# plt.imshow(hist_norm2,interpolation = 'nearest')
-# plt.show()
+plt.imshow(hist_norm,interpolation = 'nearest')
+fig = plt.figure()
+plt.imshow(hist1_norm,interpolation = 'nearest')
+plt.show()
 
 
 
